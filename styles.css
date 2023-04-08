@@ -1,0 +1,23 @@
+body{
+  background-color: #ECF2FF;
+font-family: 'Lexend Deca', sans-serif;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: grey;
+  height: 0px;
+  width: 5%;
+  background-color: #ECF2FF;
+}
+h3{
+  color: #7149C6 ;
+}
+h1{
+  color: #434242 ;
+}
+p{
+font-family: 'Fira Sans', sans-serif;
+}
